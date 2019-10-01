@@ -2,7 +2,8 @@ const initialState = {
     isLoading: true,
     contributor: [
         {
-            name: 'Abdul Hakim'
+            name: 'Abdul Hakim',
+            name: 'evan'
         },
     ],
     error: null
